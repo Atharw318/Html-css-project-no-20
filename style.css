@@ -1,0 +1,21 @@
+body{
+    background-color:#E5E6FA ;
+}
+h1{text-align: center;
+    color:blue;
+}
+.headingthree{
+    color:blue;
+}
+.divfood > ul >li{
+    color: red;
+}
+.list >ul>li{
+    color: lightblue;
+    display: block;
+    margin-left: 10px ;
+}
+
+.list > ul {
+    display: flex;
+}
